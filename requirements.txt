@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+python-jose[cryptography]
+passlib
+pytest
+python-multipart
+redis
+asyncpg
+psycopg2-binary
+asyncpg
+sqlalchemy[asyncio]
+pytest
+pytest-asyncio
